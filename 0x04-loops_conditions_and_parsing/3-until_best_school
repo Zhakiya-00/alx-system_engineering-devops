@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
-
 # using until to print best school 10 times
-
 
 
 i=10
