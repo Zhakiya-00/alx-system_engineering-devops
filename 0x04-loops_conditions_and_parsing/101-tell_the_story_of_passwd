@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # seven fields from /etc/passwd stored in $f1,f2...,$f7
 
  
