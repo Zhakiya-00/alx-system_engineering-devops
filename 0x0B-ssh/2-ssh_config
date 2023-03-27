@@ -1,0 +1,7 @@
+# SSH Config File
+#
+Host sage-01
+	Hostname 54.89.181.140:wq
+	User ubuntu
+	PasswordAuthentication no
+	IdentityFile ~/.ssh/school
