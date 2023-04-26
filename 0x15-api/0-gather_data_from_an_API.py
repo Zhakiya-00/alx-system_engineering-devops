@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-''' A script that gathers employee name completed 
+""" A script that gathers employee name completed 
 tasks and total number of tasks from an API
-'''
+"""
 
 import re
 import requests
